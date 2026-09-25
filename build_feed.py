@@ -6,7 +6,7 @@ import csv
 from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
-REPO_RAW = "https://raw.githubusercontent.com/chubarkul/remiks-top1000-feed/main"
+REPO_RAW = "https://chubarkul.github.io/remiks-top1000-feed"
 CURRENCY = "RSD"
 GENDER = {
     "Muškarci": "male",
